@@ -11,7 +11,7 @@ Believe in having versatility with a forever learning mindset, so can adapt to n
 ### 🧐 More About Me:
 
 - 🌱 I’m currently learning Java and ReactJS
-- 📫 How to reach me: [emailMe()](mailto:bikramlearn15@gmail.com)
+- 📫 How to reach me: [bikramlearn15@gmail.com](mailto:bikramlearn15@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Certainly Tea > Coffee, yet coffee is what I will have :)
 
@@ -30,9 +30,9 @@ Believe in having versatility with a forever learning mindset, so can adapt to n
 
 ### 📊 Github Stats
   
-  
-![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIKRAM-SAHA&show_icons=true&theme=radical&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIKRAM-SAHA&layout=compact&theme=radical)
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BIKRAM-SAHA&show_icons=true&theme=radical&count_private=true" alt="Bikram's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIKRAM-SAHA&layout=compact&theme=radical" /></a> |
+| ------------- | ------------- |
+
   
 <br>
