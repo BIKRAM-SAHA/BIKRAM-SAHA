@@ -28,14 +28,10 @@ Believe in having versatility with a forever learning mindset, so can adapt to n
 
 
 
-### 📊 Github Stats
+### 📊 Stats
   
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BIKRAM-SAHA&show_icons=true&theme=radical&count_private=true" alt="Bikram's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIKRAM-SAHA&layout=compact&theme=radical" /></a> |
-| ------------- | ------------- |
-<p align="center">
-<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BIKRAM-SAHA&theme=dark" /></a>
-</p>
+|---|---|
+|<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BIKRAM-SAHA&theme=dark" /></a> | <a href="#"><img align="center" src="https://www.codewars.com/users/Bikram404/badges/large" /></a> |
 
-  
-<br>
