@@ -13,7 +13,6 @@ Believe in having versatility with a forever learning mindset, so can adapt to n
 - 🌱 I’m currently learning Java and ReactJS
 - 📫 How to reach me: [bikramlearn15@gmail.com](mailto:bikramlearn15@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Certainly Tea > Coffee, yet coffee is what I will have :)
 
 
 
